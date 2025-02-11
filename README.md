@@ -40,8 +40,8 @@
 Сначала клонируйте репозиторий на ваш локальный компьютер:
 
 ```bash
-git clone <URL_репозитория>
-cd <папка_проекта>
+git clone https://github.com/lxsmlv/schedule-guard.git
+cd schedule-guard
 ```
 
 ### 2. Установка зависимостей
